@@ -4,7 +4,7 @@
 <h3>Idea</h3>
 Earlier I was using a simple model where I was relying manually on an Admin to update the News Section from DIT University's Webpage and Upload to Cloud's DB.
 <br>
-But then I thought after all Admin is also a Human Being...So why not do something which will <b>Ping the Users Automatically</b> whnever there is any new NEWS or UPCOMING EVENTS content on the website.
+But then I thought after all Admin is also a Human Being...So why not do something which will <b>Ping the Users Automatically</b> whenever there is any new NEWS or UPCOMING EVENTS content on the website.
 <br>
 So I decided to use the idea of Web Scrapping from there.
 
