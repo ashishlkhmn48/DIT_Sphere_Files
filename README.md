@@ -1,5 +1,10 @@
 # DIT Sphere Files
 
+<h4>NOTE :<h4>
+I have used two servers.<br>
+<b>1.</b> Hosted on Back4App(Parse Cloud)<br>
+<b>2.</b> Hosting by 000webhost
+
 <h1>Web Scrapping</h1>
 <h3>Idea</h3>
 Earlier I was using a simple model where I was relying manually on an Admin to update the News Section from DIT University's Webpage and Upload to Cloud's DB.
@@ -13,7 +18,7 @@ So I decided to use the idea of Web Scrapping from there.
   <li>I made few PHP scripts which fetches the NEWS' and UPCOMING EVENTS' content from the DIT University's Webpage</li>
   <li>Once it fetches all the Content of that page : 
     <ul>
-      <li>First I updated new details on my server.
+      <li>First I updated new details on my Cloud DB.
       <li>Then I Sent Notification to all the active users i.e. See MYSQL section.
     </ul>
   </li>
